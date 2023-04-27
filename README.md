@@ -9,6 +9,11 @@ Employment status is also a critical factor that lenders consider when evaluatin
 
 By using a loan approval prediction model, lenders can evaluate loan applications more efficiently and effectively. The model can analyze vast amounts of data, including historical loan data, credit scores, and income information, to provide lenders with an accurate prediction of the likelihood of an applicant repaying the loan. This helps lenders make informed decisions about loan applications and reduces the risk of default, which is beneficial for both the lender and the borrower. 
 
+<br>Graph ApplicationIncome vs LoanAmount
+![image](https://user-images.githubusercontent.com/91748984/234797148-1fa912d8-6744-40ff-9123-4a1453e8f447.png)
+<br><br>Graph CoapplicantIncome vs LoanAmount
+![image](https://user-images.githubusercontent.com/91748984/234797590-4e98ef11-3caa-4099-a33c-ea83955ca489.png)
+
 
 **ML Algorithm:** [Support Vector Classifier (SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)<br>
 **Dataset:** [loan_status_prediction.csv](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)<br>
